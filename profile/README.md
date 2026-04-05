@@ -22,7 +22,7 @@
 
 Creator ?!
 
-[![🧰Kit Starter](https://img.shields.io/badge/🧰_Kit-Starter-2b3137?style=for-the-badge)](#-Starter-kit)
+[![🧰Kit Starter](https://img.shields.io/badge/🧰_Kit-Starter-2b3137?style=for-the-badge)](#Starter-kit)
 
 </div>
 
