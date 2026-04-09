@@ -1,7 +1,5 @@
 <div align="center">
 
-  <img width="240" alt="Rubix View Icon" src="https://cdn.discordapp.com/attachments/1286472457754247199/1489893524290670683/rubix_view.png?ex=69d212f9&is=69d0c179&hm=745901c3e66af73cf1d00015bc9d5b2b3dd2b1b57421ce3cd31ef4193467a632&" />
-
   <br/>
 
   <b>F O R O M &nbsp; X Y Z</b>
